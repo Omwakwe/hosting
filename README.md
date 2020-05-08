@@ -1,4 +1,4 @@
-[![codebeat badge](https://codebeat.co/badges/78dbe179-f2f3-45ba-8862-d4667431055b)](https://codebeat.co/projects/github-com-omwakwe-upload-gh-pages)
+[![codebeat badge](https://codebeat.co/badges/f1a7d6b9-7daa-4f00-995c-9a9b33708d46)](https://codebeat.co/projects/github-com-omwakwe-hosting-master)
 
 # Upload
 
